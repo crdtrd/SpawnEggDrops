@@ -7,23 +7,12 @@
   "authors": [],
   "contact": {},
   "license": "All-Rights-Reserved",
-  "icon": "assets/spawneggdrops/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.drtdrc.spawneggdrops.client.SpawnEggDropsClient"
-    ],
     "main": [
       "com.drtdrc.spawneggdrops.SpawnEggDrops"
     ]
   },
-  "mixins": [
-    "spawneggdrops.mixins.json",
-    {
-      "config": "spawneggdrops.client.mixins.json",
-      "environment": "client"
-    }
-  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",

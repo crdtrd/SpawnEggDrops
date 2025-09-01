@@ -16,7 +16,6 @@ loom {
     mods {
         "spawneggdrops" {
             sourceSet sourceSets.main
-            sourceSet sourceSets.client
         }
     }
 }

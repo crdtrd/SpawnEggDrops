@@ -6,5 +6,6 @@ public class SpawnEggDrops implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        com.drtdrc.spawneggdrops.SpawnEggDropsLogic.register();
     }
 }
