@@ -4,9 +4,9 @@
   "version": "${version}",
   "name": "SpawnEggDrops",
   "description": "",
-  "authors": [],
+  "authors": ["crdtrd"],
   "contact": {},
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "environment": "*",
   "entrypoints": {
     "main": [
