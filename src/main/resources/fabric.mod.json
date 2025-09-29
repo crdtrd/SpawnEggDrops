@@ -3,9 +3,12 @@
   "id": "spawneggdrops",
   "version": "${version}",
   "name": "SpawnEggDrops",
-  "description": "",
+  "icon": "assets/spawneggdrops/icon.png",
+  "description": "Provides a rare chance for mobs to drop their spawn eggs. Good eatin'!",
   "authors": ["crdtrd"],
-  "contact": {},
+  "contact": {
+    "issues": "https://github.com/crdtrd/SpawnEggDrops/issues"
+  },
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
