@@ -101,7 +101,7 @@ publishing {
 
 modrinth {
     token = System.getenv("MODRINTH_TOKEN")
-    projectId = "SpawnEggDrops"
+    projectId = "crdtrd-spawneggdrops"
     versionNumber = project.mod_version
     versionType = "release"
     uploadFile = remapJar
